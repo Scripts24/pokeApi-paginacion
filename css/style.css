@@ -44,7 +44,7 @@ h1 {
 }
 
 .img-container {
-    background-image   : url("/blov.svg");
+    background-image   : url("/img/blov.svg");
     background-repeat  : no-repeat;
     background-position: center;
 }
